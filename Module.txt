@@ -1,0 +1,7 @@
+﻿Name: FSharpModule
+AntiForgery: enabled
+Author: Juan M Gómez
+Website: http://orchardproject.net
+Version: 1.7.2
+OrchardVersion: 1.7.2
+Description: This is a sample of module in fsharp

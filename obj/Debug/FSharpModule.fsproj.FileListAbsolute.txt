@@ -1,0 +1,6 @@
+C:\Users\jmgomez\Desktop\OrchardFSharpPost\Orchard.Source.1.7.2\src\Orchard.Web\bin\FSharpModule.dll
+C:\Users\jmgomez\Desktop\OrchardFSharpPost\Orchard.Source.1.7.2\src\Orchard.Web\bin\FSharpModule.pdb
+C:\Users\jmgomez\Desktop\OrchardFSharpPost\Orchard.Source.1.7.2\src\Orchard.Web\bin\FSharpModule.XML
+C:\Users\jmgomez\Desktop\OrchardFSharpPost\Orchard.Source.1.7.2\src\Orchard.Web\Modules\FSharpModule\obj\Debug\FSharpModule.dll
+C:\Users\jmgomez\Desktop\OrchardFSharpPost\Orchard.Source.1.7.2\src\Orchard.Web\Modules\FSharpModule\obj\Debug\FSharpModule.pdb
+C:\Users\jmgomez\Desktop\OrchardFSharpPost\Orchard.Source.1.7.2\src\Orchard.Web\Modules\FSharpModule\obj\Debug\FSharpModule.fsprojResolveAssemblyReference.cache
